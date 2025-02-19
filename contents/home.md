@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![xiangui](https://img.shields.io/badge/xiangui-github-blue?logo=github)](https://github.com/xiangui)
 
 I'm currently pursuing a Master's degree in Electronic science and technology at the college of Electronic and Optical Engineering & College of Flexible Electronics(Future Technology), Nanjing University of Posts and Telecommunications.
 
