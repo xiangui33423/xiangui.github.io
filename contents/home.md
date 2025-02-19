@@ -4,7 +4,7 @@ I'm currently pursuing a Master's degree in Electronic science and technology at
 
 #### Email
 
-`<code>`yaowentao1216@ `126.com</code>`
+`<code>`yaowentao1216@126.com `</code>`
 `<code>`b22020029@njupt.edu.cn `</code>`
 
 #### Education
