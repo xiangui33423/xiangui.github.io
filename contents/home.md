@@ -9,7 +9,7 @@ I'm currently pursuing a Master's degree in Electronic science and technology at
 
 #### Education
 
-**Nanjing University of Posts and Telecommunications**, Master of Electronic science and technology (2022 – 2026)
+**Nanjing University of Posts and Telecommunications**, Master of Electronic science and technology (2022 – 2026) <br> 
 • GPA: 4.21/5.00
 
 #### Research Interests
