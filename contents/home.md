@@ -2,19 +2,16 @@
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+`<code>`yaowentao1216@ `126.com</code>`
+`<code>`b22020029@njupt.edu.cn `</code>`
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### Education
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Nanjing University of Posts and Telecommunications**, Master of Electronic science and technology (2022 – 2026)
+• GPA: 4.21/5.00
 
-#### Research Interests  
-XX, XX, XX, XX.
+#### Research Interests
+
+NoC, chiplets, LLM accelerator
