@@ -4,12 +4,12 @@ I'm currently pursuing a Master's degree in Electronic science and technology at
 
 #### Email
 
-`<code>`yaowentao1216@126.com `</code>`
-`<code>`b22020029@njupt.edu.cn `</code>`
+<code>yaowentao1216@126.com</code>
+<code>b22020029@njupt.edu.cn</code>
 
 #### Education
 
-**Nanjing University of Posts and Telecommunications**, Master of Electronic science and technology (2022 – 2026) <br> 
+**Nanjing University of Posts and Telecommunications**, Master of Electronic science and technology (2022 – 2026) `<br>`
 • GPA: 4.21/5.00
 
 #### Research Interests
